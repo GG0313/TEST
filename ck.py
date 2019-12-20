@@ -7,3 +7,4 @@ width = float(input('Please input the width: '))
 height = float(input('Please input the height: '))
 
 print(rect_cal(width, height))
+print(rect_cal(width, height),33)
